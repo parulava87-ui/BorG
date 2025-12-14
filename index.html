@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>სქესის კალკულატორი</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h1>სქესის კალკულატორი</h1>
+    
+    <div class="form-group">
+        <label>დედის დაბადების თარიღი:</label>
+        <input type="date" id="momDob">
+    </div>
+
+    <div class="form-group">
+        <label>მამის დაბადების თარიღი:</label>
+        <input type="date" id="dadDob">
+    </div>
+
+    <div class="form-group">
+        <label>ჩასახვის თარიღი (სავარაუდო):</label>
+        <input type="date" id="conceptionDate">
+    </div>
+
+    <button onclick="calculateGender()">გამოთვლა</button>
+
+    <div class="result-box" id="resultBox">
+        <div class="method-card" id="bloodCard">
+            <span class="method-title">🩸 სისხლის განახლების მეთოდი:</span>
+            <span class="method-result" id="bloodResult">---</span>
+        </div>
+
+        <div class="method-card" id="chineseCard">
+            <span class="method-title">🐉 ჩინური კალენდარი:</span>
+            <span class="method-result" id="chineseResult">---</span>
+        </div>
+    </div>
+
+    <div class="footer">
+        პროგრამა შექმნილია გასართობი მიზნებისთვის.
+    </div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
