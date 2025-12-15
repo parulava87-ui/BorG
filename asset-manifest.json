@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a56de79.css",
+    "main.js": "/static/js/main.dc38b4e6.js",
+    "static/media/girl.png": "/static/media/girl.bd693323f8ae55d81ae7.png",
+    "static/media/boy.png": "/static/media/boy.6c65083910820137f863.png",
+    "static/media/bg.png": "/static/media/bg.7ce424bbcb425bf1c7ea.png",
+    "static/media/logo.png": "/static/media/logo.c381761a357fa1f41a90.png",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/bpg-nino-elite-exp-caps-webfont.svg": "/static/media/bpg-nino-elite-exp-caps-webfont.8a1e40502f2898a16a68.svg",
+    "static/media/bpg-nino-elite-webfont.svg": "/static/media/bpg-nino-elite-webfont.d9246e000e0cee0e49d0.svg",
+    "static/media/bpg-nino-elite-exp-caps-webfont.ttf": "/static/media/bpg-nino-elite-exp-caps-webfont.2ca2652d973b3c18c3a7.ttf",
+    "static/media/bpg-nino-elite-webfont.eot": "/static/media/bpg-nino-elite-webfont.ad3049eddb32c26b1720.eot",
+    "static/media/bpg-nino-elite-webfont.ttf": "/static/media/bpg-nino-elite-webfont.9ae32401120db340e0df.ttf",
+    "static/media/bpg-nino-mtavruli-bold-webfont.svg": "/static/media/bpg-nino-mtavruli-bold-webfont.8f3e5b9fab104e93d731.svg",
+    "static/media/bpg-nino-elite-webfont.woff": "/static/media/bpg-nino-elite-webfont.3e6a54b7bbfd4664024d.woff",
+    "static/media/bpg-nino-elite-exp-caps-webfont.woff": "/static/media/bpg-nino-elite-exp-caps-webfont.6e5ad3939a74bc170942.woff",
+    "static/media/bpg-nino-mtavruli-bold-webfont.ttf": "/static/media/bpg-nino-mtavruli-bold-webfont.f1ed30c04be612a2cd90.ttf",
+    "static/media/bpg-nino-elite-exp-caps-webfont.eot": "/static/media/bpg-nino-elite-exp-caps-webfont.fe11e78979c4f139fad0.eot",
+    "static/media/bpg-nino-elite-webfont.woff2": "/static/media/bpg-nino-elite-webfont.9fe2c8a78a9d9d86917e.woff2",
+    "static/media/bpg-nino-elite-exp-caps-webfont.woff2": "/static/media/bpg-nino-elite-exp-caps-webfont.4843555188ce986e043e.woff2",
+    "static/media/bpg-nino-mtavruli-bold-webfont.woff": "/static/media/bpg-nino-mtavruli-bold-webfont.41d3c341f26711aa1c62.woff",
+    "static/media/bpg-nino-mtavruli-bold-webfont.eot": "/static/media/bpg-nino-mtavruli-bold-webfont.dcefcea964c9183387d1.eot",
+    "static/media/bpg-nino-mtavruli-bold-webfont.woff2": "/static/media/bpg-nino-mtavruli-bold-webfont.e568c7b5d9bbb70c957a.woff2",
+    "index.html": "/index.html",
+    "main.6a56de79.css.map": "/static/css/main.6a56de79.css.map",
+    "main.dc38b4e6.js.map": "/static/js/main.dc38b4e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a56de79.css",
+    "static/js/main.dc38b4e6.js"
+  ]
+}
