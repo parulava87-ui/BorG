@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BorG/static/css/main.d1ab8556.css",
-    "main.js": "/BorG/static/js/main.414664c1.js",
+    "main.css": "/BorG/static/css/main.385c2a46.css",
+    "main.js": "/BorG/static/js/main.14b71ae1.js",
     "static/media/girl.png": "/BorG/static/media/girl.bd693323f8ae55d81ae7.png",
     "static/media/boy.png": "/BorG/static/media/boy.6c65083910820137f863.png",
     "static/media/bg.png": "/BorG/static/media/bg.7ce424bbcb425bf1c7ea.png",
@@ -14,6 +14,7 @@
     "static/media/bpg-nino-elite-webfont.eot": "/BorG/static/media/bpg-nino-elite-webfont.ad3049eddb32c26b1720.eot",
     "static/media/bpg-nino-elite-webfont.ttf": "/BorG/static/media/bpg-nino-elite-webfont.9ae32401120db340e0df.ttf",
     "static/media/bpg-nino-mtavruli-bold-webfont.svg": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.8f3e5b9fab104e93d731.svg",
+    "static/media/index.cjs": "/BorG/static/media/index.40079f6ed029e13c0bf8.cjs",
     "static/media/bpg-nino-elite-webfont.woff": "/BorG/static/media/bpg-nino-elite-webfont.3e6a54b7bbfd4664024d.woff",
     "static/media/bpg-nino-elite-exp-caps-webfont.woff": "/BorG/static/media/bpg-nino-elite-exp-caps-webfont.6e5ad3939a74bc170942.woff",
     "static/media/bpg-nino-mtavruli-bold-webfont.ttf": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.f1ed30c04be612a2cd90.ttf",
@@ -23,12 +24,13 @@
     "static/media/bpg-nino-mtavruli-bold-webfont.woff": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.41d3c341f26711aa1c62.woff",
     "static/media/bpg-nino-mtavruli-bold-webfont.eot": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.dcefcea964c9183387d1.eot",
     "static/media/bpg-nino-mtavruli-bold-webfont.woff2": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.e568c7b5d9bbb70c957a.woff2",
+    "static/media/format.cjs": "/BorG/static/media/format.57c9d8ba1324bdfab457.cjs",
     "index.html": "/BorG/index.html",
-    "main.d1ab8556.css.map": "/BorG/static/css/main.d1ab8556.css.map",
-    "main.414664c1.js.map": "/BorG/static/js/main.414664c1.js.map"
+    "main.385c2a46.css.map": "/BorG/static/css/main.385c2a46.css.map",
+    "main.14b71ae1.js.map": "/BorG/static/js/main.14b71ae1.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1ab8556.css",
-    "static/js/main.414664c1.js"
+    "static/css/main.385c2a46.css",
+    "static/js/main.14b71ae1.js"
   ]
 }
