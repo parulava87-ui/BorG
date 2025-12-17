@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/BorG/static/css/main.9836c565.css",
-    "main.js": "/BorG/static/js/main.997818d3.js",
-    "static/media/girl.png": "/BorG/static/media/girl.bd693323f8ae55d81ae7.png",
-    "static/media/boy.png": "/BorG/static/media/boy.6c65083910820137f863.png",
+    "main.css": "/BorG/static/css/main.fc7ad6e9.css",
+    "main.js": "/BorG/static/js/main.6ca5fced.js",
     "static/media/bg.png": "/BorG/static/media/bg.7ce424bbcb425bf1c7ea.png",
     "static/media/logo.png": "/BorG/static/media/logo.c381761a357fa1f41a90.png",
+    "static/media/boy.png": "/BorG/static/media/boy.f2c8a1012da79a7035d2.png",
+    "static/media/girl.png": "/BorG/static/media/girl.ed56f4427455581df770.png",
     "static/media/bootstrap-icons.woff?": "/BorG/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/BorG/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/bpg-nino-elite-exp-caps-webfont.svg": "/BorG/static/media/bpg-nino-elite-exp-caps-webfont.8a1e40502f2898a16a68.svg",
@@ -26,11 +26,11 @@
     "static/media/bpg-nino-mtavruli-bold-webfont.woff2": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.e568c7b5d9bbb70c957a.woff2",
     "static/media/format.cjs": "/BorG/static/media/format.57c9d8ba1324bdfab457.cjs",
     "index.html": "/BorG/index.html",
-    "main.9836c565.css.map": "/BorG/static/css/main.9836c565.css.map",
-    "main.997818d3.js.map": "/BorG/static/js/main.997818d3.js.map"
+    "main.fc7ad6e9.css.map": "/BorG/static/css/main.fc7ad6e9.css.map",
+    "main.6ca5fced.js.map": "/BorG/static/js/main.6ca5fced.js.map"
   },
   "entrypoints": [
-    "static/css/main.9836c565.css",
-    "static/js/main.997818d3.js"
+    "static/css/main.fc7ad6e9.css",
+    "static/js/main.6ca5fced.js"
   ]
 }
