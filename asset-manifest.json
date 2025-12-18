@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/BorG/static/css/main.fc7ad6e9.css",
-    "main.js": "/BorG/static/js/main.6ca5fced.js",
+    "main.css": "/BorG/static/css/main.a03c9318.css",
+    "main.js": "/BorG/static/js/main.d041c701.js",
     "static/media/bg.png": "/BorG/static/media/bg.7ce424bbcb425bf1c7ea.png",
     "static/media/logo.png": "/BorG/static/media/logo.c381761a357fa1f41a90.png",
     "static/media/boy.png": "/BorG/static/media/boy.f2c8a1012da79a7035d2.png",
@@ -26,11 +26,11 @@
     "static/media/bpg-nino-mtavruli-bold-webfont.woff2": "/BorG/static/media/bpg-nino-mtavruli-bold-webfont.e568c7b5d9bbb70c957a.woff2",
     "static/media/format.cjs": "/BorG/static/media/format.57c9d8ba1324bdfab457.cjs",
     "index.html": "/BorG/index.html",
-    "main.fc7ad6e9.css.map": "/BorG/static/css/main.fc7ad6e9.css.map",
-    "main.6ca5fced.js.map": "/BorG/static/js/main.6ca5fced.js.map"
+    "main.a03c9318.css.map": "/BorG/static/css/main.a03c9318.css.map",
+    "main.d041c701.js.map": "/BorG/static/js/main.d041c701.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc7ad6e9.css",
-    "static/js/main.6ca5fced.js"
+    "static/css/main.a03c9318.css",
+    "static/js/main.d041c701.js"
   ]
 }
